@@ -1,1 +1,5 @@
 .lein-*
+*/.nrepl-port
+*/target
+.calva
+*/.exercism
